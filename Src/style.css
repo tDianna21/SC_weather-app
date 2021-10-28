@@ -51,12 +51,7 @@ li:first-letter {
   padding: 20px;
   border: 1px solid #667d97;
   border-radius: 5px;
-  background: -webkit-linear-gradient(
-    24deg,
-    rgba(195, 247, 249, 1) 0%,
-    rgba(121, 219, 201, 1) 68%,
-    rgba(226, 230, 240, 1) 100%
-  );
+background: -webkit-linear-gradient(24deg, rgba(251,255,255,1) 0%, rgba(230,238,237,1) 49%, rgba(226,230,240,1) 100%);
   box-shadow: 10px 5px 5px #ededed;
 }
 
